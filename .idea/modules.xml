@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yang-spring-boot-autoconfiguer/yang-spring-boot-autoconfiguer.iml" filepath="$PROJECT_DIR$/yang-spring-boot-autoconfiguer/yang-spring-boot-autoconfiguer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yang-spring-boot-start/yang-spring-boot-start.iml" filepath="$PROJECT_DIR$/yang-spring-boot-start/yang-spring-boot-start.iml" />
+    </modules>
+  </component>
+</project>
